@@ -63,6 +63,7 @@ The backend server should now be running at http://localhost:8000/api/comments/.
 Next, navigate to the frontend project directory and start the frontend application with the following command:
 
 ```bash
+npm install
 npm start
 ```
 
